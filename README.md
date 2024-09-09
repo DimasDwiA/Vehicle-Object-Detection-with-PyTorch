@@ -1,2 +1,6 @@
 # Vehicle Object Detection with PyTorch
-**Overview**: This dataset is designed for vehicle classification tasks and contains a total of 5,600 images distributed across seven categories. Each category represents a different type of vehicle (`Cars`, `Auto Rickshaws`, `Bikes`, `Cars`, `Motorcycle`, `Planes`, `Ships`, `Trains`).
+**Overview**: The model is designed for vehicle classification task and the model is trained using pytorch. The model is trained with more than 5600 data, each data is categorized to represent a different type of vehicle (`Car`, `Rickshaw`, `Bike`, `Car`, `Motorcycle`, `Aircraft`, `Boat`, `Train`).
+# 
+# How To Use The Model
+If you want to run this model on your local machine, you need to do this steps:
+1. .....
