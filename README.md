@@ -28,10 +28,10 @@ If you want to run this model on your local machine, follow the steps below:
    ```bash
    pip install -r requirements.txt
 3. **Download the trained model**:
-  Download the pre-trained model from the link provided () or use the model checkpoint saved in the repository. Make sure to place the .pth file in the appropriate directory
+  Download the pre-trained model from the [this link](https://github.com/DimasDwiA/Vehicle-Object-Detection-with-PyTorch/tree/main/saved_models) or use the model checkpoint saved in the repository. Make sure to place the .pth file in the appropriate directory
 4. **Run the model for inference**:
    After setting up the environment and downloading the model, you can run inference on your test images by executing the following:
    ```bash
-   python test_model.py --model_path /path/to/your/model.pth --image_path /path/to/test/image.jpg
+   python model_v1.py --model_path /path/to/your/model.pth --image_path /path/to/test/image.jpg
    ```
    The script will output the predicted class for the input image.
