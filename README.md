@@ -1,1 +1,1 @@
-# Vehicle-Object-Detection-with-PyTorch
+# Vehicle Object Detection with PyTorch
