@@ -22,7 +22,7 @@ If you want to run this model on your local machine, follow the steps below:
 1. **Clone the repository**:  
    First, clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-repo/vehicle-object-detection.git
+   git clone https://github.com/DimasDwiA/Vehicle-Object-Detection-with-PyTorch.git
 2. **Install Dependencies**:
    Install the required libraries and dependencies. Ensure you have Python 3.x and pip installed, then run:
    ```bash
