@@ -12,6 +12,7 @@ The following table outlines the accuracy of different versions of the model aft
 | Model Version | Accuracy (%) | Accuracy (%) |
 |---------------|--------------|--------------|
 | Version 1     | 85%          |Model is Built from Scracth|
+| Version 2     | 90%          |Model Built with Fine Tuning (ResNet50)|
 
 ---
 
