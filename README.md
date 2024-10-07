@@ -9,7 +9,7 @@ This project involves training a deep learning model for vehicle classification 
 
 The following table outlines the accuracy of different versions of the model after training on the dataset:
 
-| Model Version | Accuracy (%) | Accuracy (%) |
+| Model Version | Accuracy (%) | Description |
 |---------------|--------------|--------------|
 | Version 1     | 85%          |Model is Built from Scracth|
 | Version 2     | 90%          |Model Built with Fine Tuning (ResNet50)|
